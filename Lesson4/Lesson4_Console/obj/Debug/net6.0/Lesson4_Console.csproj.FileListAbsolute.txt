@@ -1,0 +1,15 @@
+C:\Users\PRONET\Desktop\Git education\Lesson4\Lesson4_Console\bin\Debug\net6.0\Lesson4_Console.exe
+C:\Users\PRONET\Desktop\Git education\Lesson4\Lesson4_Console\bin\Debug\net6.0\Lesson4_Console.deps.json
+C:\Users\PRONET\Desktop\Git education\Lesson4\Lesson4_Console\bin\Debug\net6.0\Lesson4_Console.runtimeconfig.json
+C:\Users\PRONET\Desktop\Git education\Lesson4\Lesson4_Console\bin\Debug\net6.0\Lesson4_Console.dll
+C:\Users\PRONET\Desktop\Git education\Lesson4\Lesson4_Console\bin\Debug\net6.0\Lesson4_Console.pdb
+C:\Users\PRONET\Desktop\Git education\Lesson4\Lesson4_Console\obj\Debug\net6.0\Lesson4_Console.csproj.AssemblyReference.cache
+C:\Users\PRONET\Desktop\Git education\Lesson4\Lesson4_Console\obj\Debug\net6.0\Lesson4_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRONET\Desktop\Git education\Lesson4\Lesson4_Console\obj\Debug\net6.0\Lesson4_Console.AssemblyInfoInputs.cache
+C:\Users\PRONET\Desktop\Git education\Lesson4\Lesson4_Console\obj\Debug\net6.0\Lesson4_Console.AssemblyInfo.cs
+C:\Users\PRONET\Desktop\Git education\Lesson4\Lesson4_Console\obj\Debug\net6.0\Lesson4_Console.csproj.CoreCompileInputs.cache
+C:\Users\PRONET\Desktop\Git education\Lesson4\Lesson4_Console\obj\Debug\net6.0\Lesson4_Console.dll
+C:\Users\PRONET\Desktop\Git education\Lesson4\Lesson4_Console\obj\Debug\net6.0\refint\Lesson4_Console.dll
+C:\Users\PRONET\Desktop\Git education\Lesson4\Lesson4_Console\obj\Debug\net6.0\Lesson4_Console.pdb
+C:\Users\PRONET\Desktop\Git education\Lesson4\Lesson4_Console\obj\Debug\net6.0\Lesson4_Console.genruntimeconfig.cache
+C:\Users\PRONET\Desktop\Git education\Lesson4\Lesson4_Console\obj\Debug\net6.0\ref\Lesson4_Console.dll
