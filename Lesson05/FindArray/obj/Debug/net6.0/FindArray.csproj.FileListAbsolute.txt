@@ -1,0 +1,15 @@
+C:\Users\PRONET\Desktop\Git education\Lesson05\FindArray\bin\Debug\net6.0\FindArray.exe
+C:\Users\PRONET\Desktop\Git education\Lesson05\FindArray\bin\Debug\net6.0\FindArray.deps.json
+C:\Users\PRONET\Desktop\Git education\Lesson05\FindArray\bin\Debug\net6.0\FindArray.runtimeconfig.json
+C:\Users\PRONET\Desktop\Git education\Lesson05\FindArray\bin\Debug\net6.0\FindArray.dll
+C:\Users\PRONET\Desktop\Git education\Lesson05\FindArray\bin\Debug\net6.0\FindArray.pdb
+C:\Users\PRONET\Desktop\Git education\Lesson05\FindArray\obj\Debug\net6.0\FindArray.csproj.AssemblyReference.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\FindArray\obj\Debug\net6.0\FindArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRONET\Desktop\Git education\Lesson05\FindArray\obj\Debug\net6.0\FindArray.AssemblyInfoInputs.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\FindArray\obj\Debug\net6.0\FindArray.AssemblyInfo.cs
+C:\Users\PRONET\Desktop\Git education\Lesson05\FindArray\obj\Debug\net6.0\FindArray.csproj.CoreCompileInputs.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\FindArray\obj\Debug\net6.0\FindArray.dll
+C:\Users\PRONET\Desktop\Git education\Lesson05\FindArray\obj\Debug\net6.0\refint\FindArray.dll
+C:\Users\PRONET\Desktop\Git education\Lesson05\FindArray\obj\Debug\net6.0\FindArray.pdb
+C:\Users\PRONET\Desktop\Git education\Lesson05\FindArray\obj\Debug\net6.0\FindArray.genruntimeconfig.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\FindArray\obj\Debug\net6.0\ref\FindArray.dll
