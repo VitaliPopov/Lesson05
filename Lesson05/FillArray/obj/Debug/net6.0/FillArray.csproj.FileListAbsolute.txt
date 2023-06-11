@@ -1,0 +1,15 @@
+C:\Users\PRONET\Desktop\Git education\Lesson05\FillArray\obj\Debug\net6.0\FillArray.csproj.AssemblyReference.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\FillArray\obj\Debug\net6.0\FillArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRONET\Desktop\Git education\Lesson05\FillArray\obj\Debug\net6.0\FillArray.AssemblyInfoInputs.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\FillArray\obj\Debug\net6.0\FillArray.AssemblyInfo.cs
+C:\Users\PRONET\Desktop\Git education\Lesson05\FillArray\obj\Debug\net6.0\FillArray.csproj.CoreCompileInputs.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\FillArray\bin\Debug\net6.0\FillArray.exe
+C:\Users\PRONET\Desktop\Git education\Lesson05\FillArray\bin\Debug\net6.0\FillArray.deps.json
+C:\Users\PRONET\Desktop\Git education\Lesson05\FillArray\bin\Debug\net6.0\FillArray.runtimeconfig.json
+C:\Users\PRONET\Desktop\Git education\Lesson05\FillArray\bin\Debug\net6.0\FillArray.dll
+C:\Users\PRONET\Desktop\Git education\Lesson05\FillArray\bin\Debug\net6.0\FillArray.pdb
+C:\Users\PRONET\Desktop\Git education\Lesson05\FillArray\obj\Debug\net6.0\FillArray.dll
+C:\Users\PRONET\Desktop\Git education\Lesson05\FillArray\obj\Debug\net6.0\refint\FillArray.dll
+C:\Users\PRONET\Desktop\Git education\Lesson05\FillArray\obj\Debug\net6.0\FillArray.pdb
+C:\Users\PRONET\Desktop\Git education\Lesson05\FillArray\obj\Debug\net6.0\FillArray.genruntimeconfig.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\FillArray\obj\Debug\net6.0\ref\FillArray.dll
