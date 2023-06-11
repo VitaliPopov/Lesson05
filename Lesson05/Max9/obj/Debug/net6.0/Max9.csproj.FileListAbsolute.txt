@@ -1,0 +1,15 @@
+C:\Users\PRONET\Desktop\Git education\Lesson05\Max9\obj\Debug\net6.0\Max9.csproj.AssemblyReference.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\Max9\obj\Debug\net6.0\Max9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRONET\Desktop\Git education\Lesson05\Max9\obj\Debug\net6.0\Max9.AssemblyInfoInputs.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\Max9\obj\Debug\net6.0\Max9.AssemblyInfo.cs
+C:\Users\PRONET\Desktop\Git education\Lesson05\Max9\obj\Debug\net6.0\Max9.csproj.CoreCompileInputs.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\Max9\bin\Debug\net6.0\Max9.exe
+C:\Users\PRONET\Desktop\Git education\Lesson05\Max9\bin\Debug\net6.0\Max9.deps.json
+C:\Users\PRONET\Desktop\Git education\Lesson05\Max9\bin\Debug\net6.0\Max9.runtimeconfig.json
+C:\Users\PRONET\Desktop\Git education\Lesson05\Max9\bin\Debug\net6.0\Max9.dll
+C:\Users\PRONET\Desktop\Git education\Lesson05\Max9\bin\Debug\net6.0\Max9.pdb
+C:\Users\PRONET\Desktop\Git education\Lesson05\Max9\obj\Debug\net6.0\Max9.dll
+C:\Users\PRONET\Desktop\Git education\Lesson05\Max9\obj\Debug\net6.0\refint\Max9.dll
+C:\Users\PRONET\Desktop\Git education\Lesson05\Max9\obj\Debug\net6.0\Max9.pdb
+C:\Users\PRONET\Desktop\Git education\Lesson05\Max9\obj\Debug\net6.0\Max9.genruntimeconfig.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\Max9\obj\Debug\net6.0\ref\Max9.dll
