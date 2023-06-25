@@ -1,0 +1,15 @@
+C:\Users\PRONET\Desktop\Git education\Lesson05\RedText\obj\Debug\net6.0\RedText.csproj.AssemblyReference.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\RedText\obj\Debug\net6.0\RedText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRONET\Desktop\Git education\Lesson05\RedText\obj\Debug\net6.0\RedText.AssemblyInfoInputs.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\RedText\obj\Debug\net6.0\RedText.AssemblyInfo.cs
+C:\Users\PRONET\Desktop\Git education\Lesson05\RedText\obj\Debug\net6.0\RedText.csproj.CoreCompileInputs.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\RedText\bin\Debug\net6.0\RedText.exe
+C:\Users\PRONET\Desktop\Git education\Lesson05\RedText\bin\Debug\net6.0\RedText.deps.json
+C:\Users\PRONET\Desktop\Git education\Lesson05\RedText\bin\Debug\net6.0\RedText.runtimeconfig.json
+C:\Users\PRONET\Desktop\Git education\Lesson05\RedText\bin\Debug\net6.0\RedText.dll
+C:\Users\PRONET\Desktop\Git education\Lesson05\RedText\bin\Debug\net6.0\RedText.pdb
+C:\Users\PRONET\Desktop\Git education\Lesson05\RedText\obj\Debug\net6.0\RedText.dll
+C:\Users\PRONET\Desktop\Git education\Lesson05\RedText\obj\Debug\net6.0\refint\RedText.dll
+C:\Users\PRONET\Desktop\Git education\Lesson05\RedText\obj\Debug\net6.0\RedText.pdb
+C:\Users\PRONET\Desktop\Git education\Lesson05\RedText\obj\Debug\net6.0\RedText.genruntimeconfig.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\RedText\obj\Debug\net6.0\ref\RedText.dll
