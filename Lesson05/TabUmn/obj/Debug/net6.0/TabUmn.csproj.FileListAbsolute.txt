@@ -1,0 +1,15 @@
+C:\Users\PRONET\Desktop\Git education\Lesson05\TabUmn\obj\Debug\net6.0\TabUmn.csproj.AssemblyReference.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\TabUmn\obj\Debug\net6.0\TabUmn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRONET\Desktop\Git education\Lesson05\TabUmn\obj\Debug\net6.0\TabUmn.AssemblyInfoInputs.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\TabUmn\obj\Debug\net6.0\TabUmn.AssemblyInfo.cs
+C:\Users\PRONET\Desktop\Git education\Lesson05\TabUmn\obj\Debug\net6.0\TabUmn.csproj.CoreCompileInputs.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\TabUmn\bin\Debug\net6.0\TabUmn.exe
+C:\Users\PRONET\Desktop\Git education\Lesson05\TabUmn\bin\Debug\net6.0\TabUmn.deps.json
+C:\Users\PRONET\Desktop\Git education\Lesson05\TabUmn\bin\Debug\net6.0\TabUmn.runtimeconfig.json
+C:\Users\PRONET\Desktop\Git education\Lesson05\TabUmn\bin\Debug\net6.0\TabUmn.dll
+C:\Users\PRONET\Desktop\Git education\Lesson05\TabUmn\bin\Debug\net6.0\TabUmn.pdb
+C:\Users\PRONET\Desktop\Git education\Lesson05\TabUmn\obj\Debug\net6.0\TabUmn.dll
+C:\Users\PRONET\Desktop\Git education\Lesson05\TabUmn\obj\Debug\net6.0\refint\TabUmn.dll
+C:\Users\PRONET\Desktop\Git education\Lesson05\TabUmn\obj\Debug\net6.0\TabUmn.pdb
+C:\Users\PRONET\Desktop\Git education\Lesson05\TabUmn\obj\Debug\net6.0\TabUmn.genruntimeconfig.cache
+C:\Users\PRONET\Desktop\Git education\Lesson05\TabUmn\obj\Debug\net6.0\ref\TabUmn.dll
